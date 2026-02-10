@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous_resurgence_magical_realism_local_universal",
+  "title": "The River Remembers Backwards",
+  "tagline": "When the land speaks through silver veins and whispering stones, a girl must listen to save a world that developers want to silence.",
+  "target_words": 70000,
+  "actual_words": 65540,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Intergenerational Knowledge vs. Colonial Amnesia",
+    "Land as a Living, Speaking Archive",
+    "Magical Realism as Indigenous Reality",
+    "Resistance Through Witnessing and Re-Membering"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Gossiping River",
+      "words": 2730
+    },
+    {
+      "ch": 2,
+      "title": "Anchors of the Pahwahcahk",
+      "words": 2730
+    },
+    {
+      "ch": 3,
+      "title": "The Councilor Tree Falls",
+      "words": 2730
+    },
+    {
+      "ch": 4,
+      "title": "The Treaty Map Bleeds",
+      "words": 2730
+    },
+    {
+      "ch": 5,
+      "title": "Nails in the Water",
+      "words": 2730
+    },
+    {
+      "ch": 6,
+      "title": "Echoes from the Quiet School",
+      "words": 2730
+    },
+    {
+      "ch": 7,
+      "title": "The Lodge's False Geometry",
+      "words": 2730
+    },
+    {
+      "ch": 8,
+      "title": "Stone Heartbeats",
+      "words": 2730
+    },
+    {
+      "ch": 9,
+      "title": "Dreaming with Backwards Flow",
+      "words": 2730
+    },
+    {
+      "ch": 10,
+      "title": "The Band Council's Signature",
+      "words": 2730
+    },
+    {
+      "ch": 11,
+      "title": "Grandmother Cedar's Warning",
+      "words": 2730
+    },
+    {
+      "ch": 12,
+      "title": "When the Nets Hold Only Memory",
+      "words": 2730
+    },
+    {
+      "ch": 13,
+      "title": "McKenna's Spreadsheet Wilderness",
+      "words": 2730
+    },
+    {
+      "ch": 14,
+      "title": "Learning the Language of Loss",
+      "words": 2730
+    },
+    {
+      "ch": 15,
+      "title": "The Pines Stand Sentinel",
+      "words": 2730
+    },
+    {
+      "ch": 16,
+      "title": "A Path Known Only to Deer",
+      "words": 2730
+    },
+    {
+      "ch": 17,
+      "title": "The Shimmer Grows Stronger",
+      "words": 2730
+    },
+    {
+      "ch": 18,
+      "title": "Whispers Become a Chorus",
+      "words": 2730
+    },
+    {
+      "ch": 19,
+      "title": "Confrontation at the Bend",
+      "words": 2730
+    },
+    {
+      "ch": 20,
+      "title": "The Backhoe's Bite",
+      "words": 2730
+    },
+    {
+      "ch": 21,
+      "title": "Rebuilding the Listening",
+      "words": 2730
+    },
+    {
+      "ch": 22,
+      "title": "The River Changes Its Mind",
+      "words": 2730
+    },
+    {
+      "ch": 23,
+      "title": "A Different Kind of Sustainability",
+      "words": 2730
+    },
+    {
+      "ch": 24,
+      "title": "Holding the World in Place",
+      "words": 2730
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a 'wrongness in the rhythm' of their daily routine—a glitch in the expected flow of their world that reveals a deeper, hidden truth.",
+      "Create a monologue from the perspective of a non-human entity (a river, a mountain, a forest) witnessing and reacting to an act of environmental destruction.",
+      "Draft a dialogue between a developer like McKenna and an ancient, magical being like the Pahwahcahk, where they fundamentally fail to understand each other's concept of 'value'.",
+      "Write a 'memory of flow'—a flashback scene where the land itself remembers a time before colonial borders, told through the sensations of a character connected to it."
+    ],
+    "technical": [
+      "Design an interactive 'Treaty Map' visualization where users can touch different parts of a landscape to reveal the layers of historical agreements, violations, and living stories embedded there.",
+      "Prototype an audio experience that uses binaural beats and layered soundscapes to simulate 'listening to the land,' moving from mundane sounds to magical whispers based on user focus."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Leslie Marmon Silko",
+      "Gabriel García Márquez",
+      "Robin Wall Kimmerer",
+      "Hayao Miyazaki"
+    ]
+  },
+  "cover_prompt": "A young indigenous girl with eyes of polished obsidian reaches her hand into a river that flows upwards, its water defying gravity as silver veins of light pulse within its current and ancient petroglyphs glow softly on the submerged stones, set within a misty forest clearing where the roots of great trees twist like neural pathways and crystalline formations hum with latent memory, in the atmospheric style of a blend between the luminous magical realism of Remedios Varo and the textured, earth-toned environmental portraits of Cara Romero, book cover framing, centered and intimate composition with a low-angle view from within the river itself looking up at the girl, dramatic and reverent, cinematic chiaroscuro lighting where the only illumination comes from the bioluminescent river and the glowing glyphs, casting deep shadows and highlighting determined features, a color palette of cool lunar silvers, deep forest emeralds, and rich clay earth tones contrasted with ethereal amber light, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
